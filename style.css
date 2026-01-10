@@ -226,3 +226,14 @@ span {
     }
 
 }
+p {
+    font-size: 1.8rem;
+    color: #bbbbbb;
+    margin: 1.5rem 0 3rem;
+    line-height: 1.6;
+    color: #ff000057;
+}
+p:hover {
+    color: #4405f0;
+
+}
