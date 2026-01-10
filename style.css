@@ -231,9 +231,26 @@ p {
     color: #bbbbbb;
     margin: 1.5rem 0 3rem;
     line-height: 1.6;
-    color: #ff000057;
+    color: #ffae00d8;
 }
 p:hover {
     color: #ffffff;
 
+}
+@keyframes p {
+    0% {
+        color: #bbbbbb;
+    }
+    50% {
+        color: #ffae00d8;
+    }
+    100% {
+        color: #bbbbbb;
+    }
+    from {
+        font-size: 1.8rem;
+        to {
+            font-size: 2.5rem;
+        }
+    }
 }
