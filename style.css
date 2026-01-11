@@ -231,7 +231,7 @@ p {
     color: #bbbbbb;
     margin: 1.5rem 0 3rem;
     line-height: 1.6;
-    color: #ffae00d8;
+    color: #c300ff;
 }
 p:hover {
     color: #ffffff;
@@ -242,7 +242,7 @@ p:hover {
         color: #bbbbbb;
     }
     50% {
-        color: #ffae00d8;
+        color: #8c00ff;
     }
     100% {
         color: #bbbbbb;
